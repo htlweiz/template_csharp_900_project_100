@@ -1,4 +1,4 @@
-# Aufgabe 1
+# Aufgabe
 
 In der heutigen Aufgabe geht es um die Implementierung einer Akkumulatorklasse.
 
